@@ -1,3 +1,2 @@
-﻿  Application.cpp
-C:\Users\jonat\OneDrive\Desktop\Iamgui code\platypus-engine-\Sandbox\src\Application.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  SandboxApp.cpp
   Sandbox.vcxproj -> C:\Users\jonat\OneDrive\Desktop\Iamgui code\platypus-engine-\bin\Debug-x64\Sandbox\Sandbox.exe
